@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1fcb3c6d7b39ebbae6b4bc0920bf33d9",
+    "revision": "286c4bc38517c914887be92dee128959",
     "url": "/index.html"
   },
   {
-    "revision": "9a7721b5e10e9a32d772",
+    "revision": "b581806cef0bacfb365c",
     "url": "/static/css/2.d12dc4c8.chunk.css"
   },
   {
-    "revision": "dda3108b462856f8a18a",
-    "url": "/static/css/main.0085b00a.chunk.css"
+    "revision": "1594771746899648ea28",
+    "url": "/static/css/main.c5e61a17.chunk.css"
   },
   {
-    "revision": "9a7721b5e10e9a32d772",
-    "url": "/static/js/2.fd2bcaa3.chunk.js"
+    "revision": "b581806cef0bacfb365c",
+    "url": "/static/js/2.ddfab9bd.chunk.js"
   },
   {
     "revision": "82e57b0ef9e611381ef861bce9434aed",
-    "url": "/static/js/2.fd2bcaa3.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ddfab9bd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dda3108b462856f8a18a",
-    "url": "/static/js/main.7c2776ba.chunk.js"
+    "revision": "1594771746899648ea28",
+    "url": "/static/js/main.9f8ae2d5.chunk.js"
   },
   {
     "revision": "55b823e1be0979da6913",
@@ -396,6 +396,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/calendar-page-pinned-calender-da.ba07d2b7.jpg"
   },
   {
+    "revision": "bb9377e717fd827e73433a1a9305a9b4",
+    "url": "/static/media/carusel8_1.bb9377e7.png"
+  },
+  {
+    "revision": "81bb70e0a352ff8e5c1fde9fc28850b7",
+    "url": "/static/media/carusel8_2.81bb70e0.png"
+  },
+  {
+    "revision": "4fd216d9aeff6595f319aaa27e02b1cd",
+    "url": "/static/media/carusel8_3.4fd216d9.png"
+  },
+  {
+    "revision": "70e4558f9e37bd54f6d3c6cedeaef09f",
+    "url": "/static/media/carusel8_4.70e4558f.png"
+  },
+  {
+    "revision": "2cfcbd2ee02c03d7d44483589a1a8576",
+    "url": "/static/media/carusel8_5.2cfcbd2e.png"
+  },
+  {
+    "revision": "66d041e1940c1c58073ff583b2dc60f9",
+    "url": "/static/media/carusel8_6.66d041e1.png"
+  },
+  {
+    "revision": "3d3c0936d5c4156a339946d489ff7d47",
+    "url": "/static/media/carusel8_7.3d3c0936.png"
+  },
+  {
+    "revision": "5e406ecf341e71731ecf70a5311dbadd",
+    "url": "/static/media/carusel8_8.5e406ecf.png"
+  },
+  {
     "revision": "d3e330598d81a60a04d702ccb0c54c1f",
     "url": "/static/media/case.d3e33059.png"
   },
@@ -492,6 +524,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/contact.3f8615e1.png"
   },
   {
+    "revision": "90e687e9742daf82c0f8c06a22d43a9f",
+    "url": "/static/media/contribuim activ.90e687e9.png"
+  },
+  {
     "revision": "f20c1f62f0cc25b02165fad097f53a1f",
     "url": "/static/media/crismas.f20c1f62.png"
   },
@@ -530,6 +566,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83776addb7a1660e0d72adaa4adb9357",
     "url": "/static/media/down_bg.83776add.png"
+  },
+  {
+    "revision": "0918aa34a6aa9c918353138902c9f61f",
+    "url": "/static/media/element 300x319.0918aa34.png"
   },
   {
     "revision": "a9d48cb16c8b6d91654ac7b8e4c85c6f",
@@ -832,6 +872,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/iPhonex.eddfe5ab.png"
   },
   {
+    "revision": "ef33dc0eb2708dc4782c2073751474ab",
+    "url": "/static/media/icon_acordam atentie.ef33dc0e.png"
+  },
+  {
+    "revision": "36a1106a0e1aa46726070ce6fd8124a7",
+    "url": "/static/media/icon_asiguram furnizarea.36a1106a.png"
+  },
+  {
+    "revision": "e87c5b2c2c41946b7937ff3da15fe26f",
+    "url": "/static/media/icon_inlaturam bariera_1.e87c5b2c.png"
+  },
+  {
     "revision": "01cefa13943d67a516ceac11c93d0295",
     "url": "/static/media/image.01cefa13.png"
   },
@@ -952,6 +1004,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/map.bc984ba9.png"
   },
   {
+    "revision": "e12df705fe58f968413bd5b202957fc5",
+    "url": "/static/media/mentinem sanatatea.e12df705.png"
+  },
+  {
     "revision": "8b73f6defcfff30564d2032edf96ebdf",
     "url": "/static/media/millenial-girl-looks-positively-.8b73f6de.jpg"
   },
@@ -1044,6 +1100,34 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/post_img_3.fb605569.png"
   },
   {
+    "revision": "dff8cdd6d19d3674002aa79974202923",
+    "url": "/static/media/poza 400x489_1.dff8cdd6.png"
+  },
+  {
+    "revision": "159cf593cf9465f35e292d4bb06bd9e4",
+    "url": "/static/media/poza1.159cf593.png"
+  },
+  {
+    "revision": "8239fcb9fcfbfec4a0ede9c2f827f5a0",
+    "url": "/static/media/poza2.8239fcb9.png"
+  },
+  {
+    "revision": "698e69f0676a235cda4505f99f692f91",
+    "url": "/static/media/poza3.698e69f0.png"
+  },
+  {
+    "revision": "f17444eae706844a7a4e7b11c734679d",
+    "url": "/static/media/poza4.f17444ea.png"
+  },
+  {
+    "revision": "d60bd1ac0d6d25a7f32847f07a40feda",
+    "url": "/static/media/poza5.d60bd1ac.png"
+  },
+  {
+    "revision": "8452644256185e30d1fc0f160b99a3e5",
+    "url": "/static/media/poza6.84526442.png"
+  },
+  {
     "revision": "b8070c6b24d9c7a4ca6b4980c97645e7",
     "url": "/static/media/pr_details1.b8070c6b.jpg"
   },
@@ -1082,6 +1166,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ef2d9ab9ac9e938b16742022ff7d65f8",
     "url": "/static/media/promo.ef2d9ab9.jpg"
+  },
+  {
+    "revision": "4124e86e1a7a6286fe5357e959a3c541",
+    "url": "/static/media/promovam sanatatea digitala.4124e86e.png"
   },
   {
     "revision": "e4787f25712295d672051168e507c93a",
