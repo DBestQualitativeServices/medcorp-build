@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5cf0a123936eeadf0d3a1008e6025593",
+    "revision": "6e73a3a65d6fc04de3feebc8b7fb7bd9",
     "url": "/index.html"
   },
   {
-    "revision": "8f44b13e5011205b9701",
+    "revision": "24d65931aef19e698ae6",
     "url": "/static/css/2.d12dc4c8.chunk.css"
   },
   {
-    "revision": "471bf3de0d9d172e19f8",
-    "url": "/static/css/main.8b371578.chunk.css"
+    "revision": "10f4e007411d26936831",
+    "url": "/static/css/main.21607304.chunk.css"
   },
   {
-    "revision": "8f44b13e5011205b9701",
-    "url": "/static/js/2.9dd50462.chunk.js"
+    "revision": "24d65931aef19e698ae6",
+    "url": "/static/js/2.916e1f71.chunk.js"
   },
   {
     "revision": "82e57b0ef9e611381ef861bce9434aed",
-    "url": "/static/js/2.9dd50462.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.916e1f71.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "471bf3de0d9d172e19f8",
-    "url": "/static/js/main.ddafd108.chunk.js"
+    "revision": "10f4e007411d26936831",
+    "url": "/static/js/main.59a2d5db.chunk.js"
   },
   {
     "revision": "55b823e1be0979da6913",
@@ -1398,6 +1398,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ad96aba577f48bfe86b3e80256395903",
     "url": "/static/media/startup_shap.ad96aba5.png"
+  },
+  {
+    "revision": "ffdf020b6b98ff20aabf1de51be3e1e3",
+    "url": "/static/media/stethoscope-with-date-calendar-p.ffdf020b.jpg"
   },
   {
     "revision": "f501f7e5ce2006ff4fa59967731262ae",
