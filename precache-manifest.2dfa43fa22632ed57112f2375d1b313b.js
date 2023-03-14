@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "286c4bc38517c914887be92dee128959",
+    "revision": "ecf583542ab02435bb6f434dd25fc221",
     "url": "/index.html"
   },
   {
-    "revision": "b581806cef0bacfb365c",
+    "revision": "2e21315d4aa13ee298d9",
     "url": "/static/css/2.d12dc4c8.chunk.css"
   },
   {
-    "revision": "1594771746899648ea28",
+    "revision": "3114c6dfcab9371246e7",
     "url": "/static/css/main.c5e61a17.chunk.css"
   },
   {
-    "revision": "b581806cef0bacfb365c",
-    "url": "/static/js/2.ddfab9bd.chunk.js"
+    "revision": "2e21315d4aa13ee298d9",
+    "url": "/static/js/2.ee2ce557.chunk.js"
   },
   {
     "revision": "82e57b0ef9e611381ef861bce9434aed",
-    "url": "/static/js/2.ddfab9bd.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ee2ce557.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1594771746899648ea28",
-    "url": "/static/js/main.9f8ae2d5.chunk.js"
+    "revision": "3114c6dfcab9371246e7",
+    "url": "/static/js/main.a9627e1e.chunk.js"
   },
   {
     "revision": "55b823e1be0979da6913",
@@ -396,8 +396,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/calendar-page-pinned-calender-da.ba07d2b7.jpg"
   },
   {
-    "revision": "bb9377e717fd827e73433a1a9305a9b4",
-    "url": "/static/media/carusel8_1.bb9377e7.png"
+    "revision": "e3e6bb8093af001bdda116d308c095e7",
+    "url": "/static/media/carusel8_1.e3e6bb80.png"
   },
   {
     "revision": "81bb70e0a352ff8e5c1fde9fc28850b7",
@@ -426,6 +426,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5e406ecf341e71731ecf70a5311dbadd",
     "url": "/static/media/carusel8_8.5e406ecf.png"
+  },
+  {
+    "revision": "fa8a7ea5092fbfa25b43f9f89aa20427",
+    "url": "/static/media/carusel_media_1.fa8a7ea5.png"
+  },
+  {
+    "revision": "955cb0db17e73b0563949cb851baaa1e",
+    "url": "/static/media/carusel_media_2.955cb0db.png"
+  },
+  {
+    "revision": "d9066416cdcb09c3ba01baa143b0f267",
+    "url": "/static/media/carusel_media_3.d9066416.png"
+  },
+  {
+    "revision": "a7911fdc1cdcb9ecc14051e41fb544cc",
+    "url": "/static/media/carusel_media_4.a7911fdc.png"
+  },
+  {
+    "revision": "f408d83e3c5c8a68bb646cba7572c3f5",
+    "url": "/static/media/carusel_media_5.f408d83e.png"
   },
   {
     "revision": "d3e330598d81a60a04d702ccb0c54c1f",
@@ -1004,6 +1024,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/map.bc984ba9.png"
   },
   {
+    "revision": "c3783cd30063b8a0f653a4ca9eec3e10",
+    "url": "/static/media/medical act_campanii.c3783cd3.png"
+  },
+  {
+    "revision": "fba23c8eee2d1b54e5879f53c457d70c",
+    "url": "/static/media/medical act_programe_1.fba23c8e.png"
+  },
+  {
+    "revision": "c69554e59224d38e9a4200441226c5c2",
+    "url": "/static/media/medical act_screeninguri.c69554e5.png"
+  },
+  {
     "revision": "e12df705fe58f968413bd5b202957fc5",
     "url": "/static/media/mentinem sanatatea.e12df705.png"
   },
@@ -1104,28 +1136,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/poza 400x489_1.dff8cdd6.png"
   },
   {
-    "revision": "159cf593cf9465f35e292d4bb06bd9e4",
-    "url": "/static/media/poza1.159cf593.png"
+    "revision": "a36f25e5436fc2bff74c2f10061bd34d",
+    "url": "/static/media/poza1.a36f25e5.png"
   },
   {
-    "revision": "8239fcb9fcfbfec4a0ede9c2f827f5a0",
-    "url": "/static/media/poza2.8239fcb9.png"
+    "revision": "06a5c8666ad7e684d2ed269553e28d4d",
+    "url": "/static/media/poza2.06a5c866.png"
   },
   {
-    "revision": "698e69f0676a235cda4505f99f692f91",
-    "url": "/static/media/poza3.698e69f0.png"
+    "revision": "68209d87b2ee3a303a6d7bd82e994834",
+    "url": "/static/media/poza3.68209d87.png"
   },
   {
-    "revision": "f17444eae706844a7a4e7b11c734679d",
-    "url": "/static/media/poza4.f17444ea.png"
+    "revision": "fbf776dc6e500719d7cca7ec189653e0",
+    "url": "/static/media/poza4.fbf776dc.png"
   },
   {
-    "revision": "d60bd1ac0d6d25a7f32847f07a40feda",
-    "url": "/static/media/poza5.d60bd1ac.png"
+    "revision": "bee142721af86408e410cee823a14e9f",
+    "url": "/static/media/poza5.bee14272.png"
   },
   {
-    "revision": "8452644256185e30d1fc0f160b99a3e5",
-    "url": "/static/media/poza6.84526442.png"
+    "revision": "9b9a3bdc0901e5fe06f0c9ceacf13122",
+    "url": "/static/media/poza6.9b9a3bdc.png"
   },
   {
     "revision": "b8070c6b24d9c7a4ca6b4980c97645e7",
@@ -1380,6 +1412,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/tab_shape_bg.f0823274.png"
   },
   {
+    "revision": "ac88ef082fccd02f5f5937ef51765666",
+    "url": "/static/media/tabel_3.ac88ef08.png"
+  },
+  {
     "revision": "4ced432d9bde81638a75f4adf10fba0f",
     "url": "/static/media/team1.4ced432d.jpg"
   },
@@ -1458,6 +1494,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "97e1ae823298c01fe5788ef45a5005cd",
     "url": "/static/media/team_9.97e1ae82.jpg"
+  },
+  {
+    "revision": "b94bf4dfde5e10df99457aae402df9f0",
+    "url": "/static/media/telefon.b94bf4df.png"
   },
   {
     "revision": "3e65fbfbee4c78d90845f30f4f306228",
