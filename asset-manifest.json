@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.21607304.chunk.css",
-    "main.js": "/static/js/main.59a2d5db.chunk.js",
-    "main.js.map": "/static/js/main.59a2d5db.chunk.js.map",
+    "main.css": "/static/css/main.81a79db9.chunk.css",
+    "main.js": "/static/js/main.f68bd741.chunk.js",
+    "main.js.map": "/static/js/main.f68bd741.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5667fdc5.js",
     "runtime-main.js.map": "/static/js/runtime-main.5667fdc5.js.map",
     "static/css/2.d12dc4c8.chunk.css": "/static/css/2.d12dc4c8.chunk.css",
-    "static/js/2.916e1f71.chunk.js": "/static/js/2.916e1f71.chunk.js",
-    "static/js/2.916e1f71.chunk.js.map": "/static/js/2.916e1f71.chunk.js.map",
+    "static/js/2.13df5e87.chunk.js": "/static/js/2.13df5e87.chunk.js",
+    "static/js/2.13df5e87.chunk.js.map": "/static/js/2.13df5e87.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3b5f01a16e8ba91e856f08f90c3e0d3c.js": "/precache-manifest.3b5f01a16e8ba91e856f08f90c3e0d3c.js",
+    "precache-manifest.8a0301a2aec3e20595c7b3a549deb753.js": "/precache-manifest.8a0301a2aec3e20595c7b3a549deb753.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d12dc4c8.chunk.css.map": "/static/css/2.d12dc4c8.chunk.css.map",
-    "static/css/main.21607304.chunk.css.map": "/static/css/main.21607304.chunk.css.map",
-    "static/js/2.916e1f71.chunk.js.LICENSE.txt": "/static/js/2.916e1f71.chunk.js.LICENSE.txt",
+    "static/css/main.81a79db9.chunk.css.map": "/static/css/main.81a79db9.chunk.css.map",
+    "static/js/2.13df5e87.chunk.js.LICENSE.txt": "/static/js/2.13df5e87.chunk.js.LICENSE.txt",
     "static/media/01.jpg": "/static/media/01.38d684ee.jpg",
     "static/media/0111.png": "/static/media/0111.8491142e.png",
     "static/media/02.jpg": "/static/media/02.ec75f7ff.jpg",
@@ -40,6 +40,7 @@
     "static/media/Asset3.png": "/static/media/Asset3.c57b71b2.png",
     "static/media/Banner  Sud Munteniau 1080 x 108.jpg": "/static/media/Banner  Sud Munteniau 1080 x 108.06d742ef.jpg",
     "static/media/Caravana.png": "/static/media/Caravana.05bab5ff.png",
+    "static/media/Contact.jpg": "/static/media/Contact.8dafc5ec.jpg",
     "static/media/style.css": "/static/media/ElegantIcons.fdd9e757.woff",
     "static/media/Grafic1.PNG": "/static/media/Grafic1.2864ea35.PNG",
     "static/media/Grafic2.PNG": "/static/media/Grafic2.3b443e5e.PNG",
@@ -304,6 +305,9 @@
     "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
     "static/media/smiling-friendly-corporate-woman-removebg-preview.png": "/static/media/smiling-friendly-corporate-woman-removebg-preview.10c41ec0.png",
     "static/media/startup_banner_img.png": "/static/media/startup_banner_img.b143a12c.png",
+    "static/media/stethoscope-with-calendar-page (1).jpg": "/static/media/stethoscope-with-calendar-page (1).6bb8a64c.jpg",
+    "static/media/stethoscope-with-calendar-page-d.jpg": "/static/media/stethoscope-with-calendar-page-d.1730502e.jpg",
+    "static/media/stethoscope-with-date-calendar-p.jpg": "/static/media/stethoscope-with-date-calendar-p.ffdf020b.jpg",
     "static/media/studies_img_one.jpg": "/static/media/studies_img_one.f501f7e5.jpg",
     "static/media/studies_img_three.jpg": "/static/media/studies_img_three.2676251b.jpg",
     "static/media/studies_img_two.jpg": "/static/media/studies_img_two.7ad1e987.jpg",
@@ -355,8 +359,8 @@
   "entrypoints": [
     "static/js/runtime-main.5667fdc5.js",
     "static/css/2.d12dc4c8.chunk.css",
-    "static/js/2.916e1f71.chunk.js",
-    "static/css/main.21607304.chunk.css",
-    "static/js/main.59a2d5db.chunk.js"
+    "static/js/2.13df5e87.chunk.js",
+    "static/css/main.81a79db9.chunk.css",
+    "static/js/main.f68bd741.chunk.js"
   ]
 }
