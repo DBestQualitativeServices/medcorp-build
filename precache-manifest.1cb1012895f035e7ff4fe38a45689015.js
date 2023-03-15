@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d486dd94ac02d0889246da380021648",
+    "revision": "a6b55a3583d9e5037d23072fe9672c9d",
     "url": "/index.html"
   },
   {
-    "revision": "c224ba46b47daf41e63d",
+    "revision": "7d152e4af48be9ffe0f3",
     "url": "/static/css/2.d12dc4c8.chunk.css"
   },
   {
-    "revision": "fc6d01aaeaaee5c3b3de",
-    "url": "/static/css/main.81a79db9.chunk.css"
+    "revision": "38cdfee43e2ae172cfdd",
+    "url": "/static/css/main.bf0dc014.chunk.css"
   },
   {
-    "revision": "c224ba46b47daf41e63d",
-    "url": "/static/js/2.13df5e87.chunk.js"
+    "revision": "7d152e4af48be9ffe0f3",
+    "url": "/static/js/2.6165c50f.chunk.js"
   },
   {
     "revision": "82e57b0ef9e611381ef861bce9434aed",
-    "url": "/static/js/2.13df5e87.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6165c50f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fc6d01aaeaaee5c3b3de",
-    "url": "/static/js/main.f68bd741.chunk.js"
+    "revision": "38cdfee43e2ae172cfdd",
+    "url": "/static/js/main.38283d03.chunk.js"
   },
   {
     "revision": "55b823e1be0979da6913",
@@ -584,12 +584,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/design2.07a0e432.png"
   },
   {
+    "revision": "6e4787c910c8420138915f6edc0dcaa7",
+    "url": "/static/media/diamedix.6e4787c9.png"
+  },
+  {
     "revision": "27f545cd4671a00808d4bf1155699f6e",
     "url": "/static/media/digital-composite-doctor-with-wh.27f545cd.jpg"
   },
   {
     "revision": "c482bf437f8f0d708c6cbfa4f0563abd",
     "url": "/static/media/digital-composite-doctor-with-white-graph-with-flare-against-blurry-background-with-light-blue-overlay.c482bf43.jpg"
+  },
+  {
+    "revision": "7309774756d9604d220506977bbd7bcb",
+    "url": "/static/media/diploma_cu rama.73097747.png"
   },
   {
     "revision": "6240c67f91f8b5dc3b316a57526a4e53",
@@ -916,12 +924,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/icon_acordam atentie.ef33dc0e.png"
   },
   {
+    "revision": "72e01bcf2e8b17171c93ec376668c431",
+    "url": "/static/media/icon_acordam atentie_v2.72e01bcf.png"
+  },
+  {
     "revision": "36a1106a0e1aa46726070ce6fd8124a7",
     "url": "/static/media/icon_asiguram furnizarea.36a1106a.png"
   },
   {
+    "revision": "15a0de1af42f417aab2e1f6ee91b163d",
+    "url": "/static/media/icon_asiguram furnizarea_v2.15a0de1a.png"
+  },
+  {
+    "revision": "1decd90649ead69b78ca5e67a56d1c82",
+    "url": "/static/media/icon_facilitam accesul_v2.1decd906.png"
+  },
+  {
     "revision": "e87c5b2c2c41946b7937ff3da15fe26f",
     "url": "/static/media/icon_inlaturam bariera_1.e87c5b2c.png"
+  },
+  {
+    "revision": "914d345e7e0e873612087590d0af4f38",
+    "url": "/static/media/icon_inlaturam bariera_v2.914d345e.png"
+  },
+  {
+    "revision": "907976fb644c2bb0a0e6eb2f514b6619",
+    "url": "/static/media/icon_promovam activ_v2.907976fb.png"
   },
   {
     "revision": "01cefa13943d67a516ceac11c93d0295",
@@ -992,6 +1020,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/laptop_two.82e3798f.png"
   },
   {
+    "revision": "4a18b5a64c956e2bcefeaf2cb71fdf3f",
+    "url": "/static/media/lauri.4a18b5a6.png"
+  },
+  {
     "revision": "d32861d20e931f31539b323cc8ab2b70",
     "url": "/static/media/left_leaf.d32861d2.png"
   },
@@ -1044,12 +1076,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/map.bc984ba9.png"
   },
   {
-    "revision": "c3783cd30063b8a0f653a4ca9eec3e10",
-    "url": "/static/media/medical act_campanii.c3783cd3.png"
+    "revision": "49b2d51a846ab2dee7ac83d0e3974989",
+    "url": "/static/media/medical act_campanii.49b2d51a.png"
   },
   {
-    "revision": "fba23c8eee2d1b54e5879f53c457d70c",
-    "url": "/static/media/medical act_programe_1.fba23c8e.png"
+    "revision": "bbe27d0601ebb2eb3f848c6ea50dc132",
+    "url": "/static/media/medical act_programe_1.bbe27d06.png"
+  },
+  {
+    "revision": "42f80675ed69aeebc13777c120417674",
+    "url": "/static/media/medical act_screeninguri (1) (1).42f80675.png"
   },
   {
     "revision": "c69554e59224d38e9a4200441226c5c2",
@@ -1160,8 +1196,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/poza1.a36f25e5.png"
   },
   {
+    "revision": "4c4e647ad8ee9d23a9abe1cafc3d8435",
+    "url": "/static/media/poza1_cu rama.4c4e647a.png"
+  },
+  {
     "revision": "06a5c8666ad7e684d2ed269553e28d4d",
     "url": "/static/media/poza2.06a5c866.png"
+  },
+  {
+    "revision": "63fba871f20729df36ce41211ab635ab",
+    "url": "/static/media/poza2_cu rama.63fba871.png"
   },
   {
     "revision": "68209d87b2ee3a303a6d7bd82e994834",
@@ -1552,6 +1596,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/telefon.b94bf4df.png"
   },
   {
+    "revision": "81ae04e6aab2d20485859a52cf2deed4",
+    "url": "/static/media/telefon_v2.81ae04e6.png"
+  },
+  {
     "revision": "3e65fbfbee4c78d90845f30f4f306228",
     "url": "/static/media/testimonial_bg.3e65fbfb.png"
   },
@@ -1610,6 +1658,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5876f8fe091649f930082fb12807e890",
     "url": "/static/media/triangle_two.5876f8fe.png"
+  },
+  {
+    "revision": "496c952b036a2d9b79890c832ed268db",
+    "url": "/static/media/trofeu_cu rama.496c952b.png"
   },
   {
     "revision": "dd10c7b798ceb3df2b1cd237b4fe6458",
