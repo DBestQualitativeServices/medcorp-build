@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a07ba3d214a1815a3b2441cdf01366b",
+    "revision": "e28f14ab78a80370d2904a2b0e49000f",
     "url": "/index.html"
   },
   {
-    "revision": "454b2d98caaf9411f289",
+    "revision": "15f6605d2a2a55edfa17",
     "url": "/static/css/2.d12dc4c8.chunk.css"
   },
   {
-    "revision": "74a11518628b1f7813c4",
-    "url": "/static/css/main.187a4f9e.chunk.css"
+    "revision": "d3af8e0f37f4814632aa",
+    "url": "/static/css/main.ede331d2.chunk.css"
   },
   {
-    "revision": "454b2d98caaf9411f289",
-    "url": "/static/js/2.4f5f5f67.chunk.js"
+    "revision": "15f6605d2a2a55edfa17",
+    "url": "/static/js/2.ffbcd2e0.chunk.js"
   },
   {
     "revision": "82e57b0ef9e611381ef861bce9434aed",
-    "url": "/static/js/2.4f5f5f67.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ffbcd2e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "74a11518628b1f7813c4",
-    "url": "/static/js/main.88984ac8.chunk.js"
+    "revision": "d3af8e0f37f4814632aa",
+    "url": "/static/js/main.f5a42d41.chunk.js"
   },
   {
     "revision": "55b823e1be0979da6913",
@@ -636,6 +636,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/directia 1.8b0a7eea.png"
   },
   {
+    "revision": "6c97294c6da8e2b9a50a9b958c8d9550",
+    "url": "/static/media/directia 2 alb.6c97294c.png"
+  },
+  {
     "revision": "6b6f1d5d1877aa8df10ab3af3a9ef31d",
     "url": "/static/media/directia 2.6b6f1d5d.png"
   },
@@ -1088,6 +1092,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/login_img2.96165955.png"
   },
   {
+    "revision": "77f52b0748b0192458bb8e4f62785a52",
+    "url": "/static/media/logo pachete.77f52b07.png"
+  },
+  {
     "revision": "5fd3cb5ac0a13730d7f1f1339e58bc16",
     "url": "/static/media/logoMedCorp_final.5fd3cb5a.png"
   },
@@ -1168,6 +1176,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/p_feature1.63e45ade.png"
   },
   {
+    "revision": "e580a11115fec15a1e5eedf8c3796c5a",
+    "url": "/static/media/pachet 1 icon.e580a111.png"
+  },
+  {
+    "revision": "8de47851852d8ae76eeefdade2853b07",
+    "url": "/static/media/pachet 2 icon.8de47851.png"
+  },
+  {
+    "revision": "2cf100703d7b5111adb0002412f6d39d",
+    "url": "/static/media/pachet 3 icon.2cf10070.png"
+  },
+  {
+    "revision": "734c270437b7676b37568dff76e8ccf4",
+    "url": "/static/media/pachet 4 icon.734c2704.png"
+  },
+  {
+    "revision": "e6c18c28345d43b6fae10d8c643691f9",
+    "url": "/static/media/pachet 5 icon.e6c18c28.png"
+  },
+  {
     "revision": "be037619379a5e289bfc0f7286104a57",
     "url": "/static/media/photo-handsome-male-student-his- .be037619.jpg"
   },
@@ -1238,6 +1266,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dff8cdd6d19d3674002aa79974202923",
     "url": "/static/media/poza 400x489_1.dff8cdd6.png"
+  },
+  {
+    "revision": "888ec409a3143d58290676d17ff484f3",
+    "url": "/static/media/poza pachet 1.888ec409.png"
+  },
+  {
+    "revision": "ef04a31abd0f9ddc69e560523a2869cd",
+    "url": "/static/media/poza pachet 2.ef04a31a.png"
+  },
+  {
+    "revision": "d392bd527e37fcde66728be585f6d46b",
+    "url": "/static/media/poza pachet 3.d392bd52.png"
+  },
+  {
+    "revision": "9e7c464e001e7edc597ab2cdd7873f33",
+    "url": "/static/media/poza pachet 4.9e7c464e.png"
+  },
+  {
+    "revision": "255967102d51640acd2035b991c5ac58",
+    "url": "/static/media/poza pachet 5.25596710.png"
   },
   {
     "revision": "a36f25e5436fc2bff74c2f10061bd34d",
