@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7a13a771974ba434eebb8ac71f9f4b4",
+    "revision": "24bfc30df28bc411de422cf13e2e258d",
     "url": "/index.html"
   },
   {
-    "revision": "345b80b02279a2e3a6dd",
+    "revision": "cf30b85404ff4e74a5b1",
     "url": "/static/css/2.d12dc4c8.chunk.css"
   },
   {
-    "revision": "c0537ebf02baec1d0581",
-    "url": "/static/css/main.d675199a.chunk.css"
+    "revision": "01cd0289ab0d29e4b482",
+    "url": "/static/css/main.4ce31090.chunk.css"
   },
   {
-    "revision": "345b80b02279a2e3a6dd",
-    "url": "/static/js/2.e277bcc9.chunk.js"
+    "revision": "cf30b85404ff4e74a5b1",
+    "url": "/static/js/2.f7ab4c03.chunk.js"
   },
   {
     "revision": "82e57b0ef9e611381ef861bce9434aed",
-    "url": "/static/js/2.e277bcc9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.f7ab4c03.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c0537ebf02baec1d0581",
-    "url": "/static/js/main.dd67ebd3.chunk.js"
+    "revision": "01cd0289ab0d29e4b482",
+    "url": "/static/js/main.89fbe2f1.chunk.js"
   },
   {
     "revision": "55b823e1be0979da6913",
@@ -258,6 +258,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ff94ad94c3a9d04bd2f80cb3c87dcccb",
     "url": "/static/media/Simple-Line-Icons.ff94ad94.woff"
+  },
+  {
+    "revision": "aedf05a1cc5b2d0584516ecc282946a9",
+    "url": "/static/media/Tiny doctor and heart of patient with high blood pressure.aedf05a1.jpg"
+  },
+  {
+    "revision": "2e560ad57b361e7c1c628c2e5a0d9b5e",
+    "url": "/static/media/Tiny doctor and heart of patient.2e560ad5.jpg"
   },
   {
     "revision": "837089ad4dae927f0f89c5663b5b3bed",
@@ -1084,8 +1092,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/laptop_two.82e3798f.png"
   },
   {
-    "revision": "4a18b5a64c956e2bcefeaf2cb71fdf3f",
-    "url": "/static/media/lauri.4a18b5a6.png"
+    "revision": "7804c08514ce6a9893ba12ba6d6cd853",
+    "url": "/static/media/lauri.7804c085.png"
   },
   {
     "revision": "d32861d20e931f31539b323cc8ab2b70",
@@ -1284,20 +1292,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/poza 400x489_1.dff8cdd6.png"
   },
   {
+    "revision": "3c4f748ea1cc02baca732ef2c115a232",
+    "url": "/static/media/poza pachet 1 (1).3c4f748e.png"
+  },
+  {
     "revision": "888ec409a3143d58290676d17ff484f3",
     "url": "/static/media/poza pachet 1.888ec409.png"
+  },
+  {
+    "revision": "759fac26f5bd1762b77469da4a7b8f9d",
+    "url": "/static/media/poza pachet 2 (1).759fac26.png"
   },
   {
     "revision": "ef04a31abd0f9ddc69e560523a2869cd",
     "url": "/static/media/poza pachet 2.ef04a31a.png"
   },
   {
+    "revision": "db32137ad76ec7b776887c6348d857c9",
+    "url": "/static/media/poza pachet 3 (1).db32137a.png"
+  },
+  {
     "revision": "d392bd527e37fcde66728be585f6d46b",
     "url": "/static/media/poza pachet 3.d392bd52.png"
   },
   {
+    "revision": "36631dce06d3e75d333f5b1eef81ad9b",
+    "url": "/static/media/poza pachet 4 (1).36631dce.png"
+  },
+  {
     "revision": "9e7c464e001e7edc597ab2cdd7873f33",
     "url": "/static/media/poza pachet 4.9e7c464e.png"
+  },
+  {
+    "revision": "b5c4b5aeaf55dbd42bed2e36280c5ba8",
+    "url": "/static/media/poza pachet 5 (1).b5c4b5ae.png"
   },
   {
     "revision": "255967102d51640acd2035b991c5ac58",
@@ -1414,6 +1442,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2d3ce977abf6283b2f76771f47ecc7d9",
     "url": "/static/media/saas2-slider.2d3ce977.png"
+  },
+  {
+    "revision": "09a3797a7cdc7862b485828efd8b5f40",
+    "url": "/static/media/sanatate in vecinatate.09a3797a.png"
   },
   {
     "revision": "41d74aa38d8cf42863ec3636423e6b9a",
