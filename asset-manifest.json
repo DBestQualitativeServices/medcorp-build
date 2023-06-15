@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.4ce31090.chunk.css",
-    "main.js": "/static/js/main.8d6653de.chunk.js",
-    "main.js.map": "/static/js/main.8d6653de.chunk.js.map",
+    "main.js": "/static/js/main.e10d64f9.chunk.js",
+    "main.js.map": "/static/js/main.e10d64f9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5667fdc5.js",
     "runtime-main.js.map": "/static/js/runtime-main.5667fdc5.js.map",
-    "static/css/2.d12dc4c8.chunk.css": "/static/css/2.d12dc4c8.chunk.css",
-    "static/js/2.f7ab4c03.chunk.js": "/static/js/2.f7ab4c03.chunk.js",
-    "static/js/2.f7ab4c03.chunk.js.map": "/static/js/2.f7ab4c03.chunk.js.map",
+    "static/css/2.b84cc0ca.chunk.css": "/static/css/2.b84cc0ca.chunk.css",
+    "static/js/2.170f1263.chunk.js": "/static/js/2.170f1263.chunk.js",
+    "static/js/2.170f1263.chunk.js.map": "/static/js/2.170f1263.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7b1a67406ae54d2ebd7c61277dedf9c1.js": "/precache-manifest.7b1a67406ae54d2ebd7c61277dedf9c1.js",
+    "precache-manifest.174515cf5ade5f28e8f30b1edab67a6e.js": "/precache-manifest.174515cf5ade5f28e8f30b1edab67a6e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.d12dc4c8.chunk.css.map": "/static/css/2.d12dc4c8.chunk.css.map",
+    "static/css/2.b84cc0ca.chunk.css.map": "/static/css/2.b84cc0ca.chunk.css.map",
     "static/css/main.4ce31090.chunk.css.map": "/static/css/main.4ce31090.chunk.css.map",
-    "static/js/2.f7ab4c03.chunk.js.LICENSE.txt": "/static/js/2.f7ab4c03.chunk.js.LICENSE.txt",
+    "static/js/2.170f1263.chunk.js.LICENSE.txt": "/static/js/2.170f1263.chunk.js.LICENSE.txt",
     "static/media/01.jpg": "/static/media/01.38d684ee.jpg",
     "static/media/0111.png": "/static/media/0111.8491142e.png",
     "static/media/02.jpg": "/static/media/02.ec75f7ff.jpg",
@@ -181,6 +181,7 @@
     "static/media/full_6.jpg": "/static/media/full_6.747a45d4.jpg",
     "static/media/full_7.jpg": "/static/media/full_7.8f1bd4c8.jpg",
     "static/media/funny-happy-excited-young-pretty.jpg": "/static/media/funny-happy-excited-young-pretty.0af0182c.jpg",
+    "static/media/gb.svg": "/static/media/gb.fcfef678.svg",
     "static/media/grid1.jpg": "/static/media/grid1.9e8e1a2f.jpg",
     "static/media/grid2.jpg": "/static/media/grid2.42e6903c.jpg",
     "static/media/grid4.jpg": "/static/media/grid4.9dfe9061.jpg",
@@ -316,6 +317,7 @@
     "static/media/prototype_banner_img2.png": "/static/media/prototype_banner_img2.37f5848d.png",
     "static/media/recruitment-jobs-career-hiring-v.jpg": "/static/media/recruitment-jobs-career-hiring-v.50553d21.jpg",
     "static/media/richard.png": "/static/media/richard.fadc164d.png",
+    "static/media/ro.svg": "/static/media/ro.e9130a28.svg",
     "static/media/rocket.png": "/static/media/rocket.d086a142.png",
     "static/media/romania-national-healthcare-syst.jpg": "/static/media/romania-national-healthcare-syst.521eb287.jpg",
     "static/media/saas2-slider.png": "/static/media/saas2-slider.2d3ce977.png",
@@ -405,9 +407,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5667fdc5.js",
-    "static/css/2.d12dc4c8.chunk.css",
-    "static/js/2.f7ab4c03.chunk.js",
+    "static/css/2.b84cc0ca.chunk.css",
+    "static/js/2.170f1263.chunk.js",
     "static/css/main.4ce31090.chunk.css",
-    "static/js/main.8d6653de.chunk.js"
+    "static/js/main.e10d64f9.chunk.js"
   ]
 }
